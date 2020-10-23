@@ -1,0 +1,19 @@
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    }   
+.bgimage{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('CNY4.jpg');
+}
+.h1{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 100;
+    
+}
