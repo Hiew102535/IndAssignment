@@ -26,7 +26,7 @@ var mytext = getUrlVars()["text"];
 	var outputVal2 = outputVal.replace(" ", "~");
 	var outputVal3 = outputVal2.replace(" ", "~");
 	var outputVal4 = outputVal3.replace(" ", "~");
-window.location = 'https://wa.me/?text='+inputVal+' wishing you a Happy Deepavali 2020 %0A%0AOpen this https://hiew102535.github.io/IndAssignment/HD.html?name='+outputVal4;
+window.location = 'https://wa.me/?text='+inputVal+' Wishing you a Happy Deepavali 2020 %0A%0AOpen this https://hiew102535.github.io/IndAssignment/HD.html?name='+outputVal4;
 }
 
 function loadname() {
