@@ -21,7 +21,7 @@ var mytext = getUrlVars()["text"];
 	var outputVal2 = outputVal.replace(" ", "~");
 	var outputVal3 = outputVal2.replace(" ", "~");
 	var outputVal4 = outputVal3.replace(" ", "~");
-window.location = 'https://wa.me/?text='+inputVal+'wishing you a Happy Chinese New Year 2020 %0A%0AOpen+this+�+%0A%0ACNY.html%3Fname%3DHiew~Bing~Jie&app_absent=0"'+outputVal4;
+window.location = 'https://wa.me/?text='+inputVal+'Wishing you a Happy Chinese New Year 2020 %0A%0AOpen+this+�+%0A%0ACNY.html%3Fname%3DHiew~Bing~Jie&app_absent=0"'+outputVal4;
 }
 
 function loadname() {
