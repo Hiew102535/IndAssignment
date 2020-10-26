@@ -22,7 +22,7 @@ footer{
     width:"100%";
     color: white;
 }
-#textboxid {
+#name {
     border-radius: 25px;
     border: 2px solid blue;
     padding: 20px; 
@@ -30,7 +30,7 @@ footer{
     height: 15px;    
 }
 		
-#textboxid{
+#name{
     height:50px;
     font-size:25px;
 }
